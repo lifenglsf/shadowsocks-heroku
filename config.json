@@ -1,0 +1,10 @@
+{
+  "server": "shadowsocks-pen.herokuapp.com",
+  "local_address": "127.0.0.1",
+  "scheme": "ws",
+  "local_port": 1080,
+  "remote_port": 80,
+  "password": "password",
+  "timeout": 60,
+  "method": "aes-256-cfb"
+}
